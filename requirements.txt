@@ -2,3 +2,4 @@ gdown
 pandas
 ipykernel
 matplotlib
+tensorflow
